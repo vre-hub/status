@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vre-rucio-ui.cern.ch.ico",
     "slug": "vre-data-lake-service",
     "status": "up",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1153,
     "timeDay": 1153,
     "timeWeek": 1153,
     "timeMonth": 1153,
     "timeYear": 1153,
-    "dailyMinutesDown": {
-      "2023-07-05": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
