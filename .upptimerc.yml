@@ -7,6 +7,7 @@ sites: # add dashub, reana etc later on
     url: https://jhub-vre.cern.ch/
   - name: VRE Data Lake Service # add ports and url for auth and server
     url: https://vre-rucio-ui.cern.ch/
+    __dangerous__disable_verify_peer: true # because of self singed cert
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,8 +16,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://vre-hub.github.io/images/logo.png
   name: VRE Service Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "This is the service uptime status page of the Virtual Research Environment at CERN"
+  introMessage: This status page shows **real-time** data of our services. Learn more about the VRE [**here**](https://vre-hub.github.io/).
   navbar:
     - title: Status
       href: /
