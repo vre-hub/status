@@ -8,6 +8,8 @@ sites: # add dashub, reana etc later on
   - name: VRE Data Lake Service # add ports and url for auth and server
     url: https://vre-rucio-ui.cern.ch/
     __dangerous__disable_verify_peer: true # because of self singed cert
+  - name: VRE IAM Service
+    url: https://iam-escape.cloud.cnaf.infn.it/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
