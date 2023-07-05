@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 704,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "time": 862,
+    "timeDay": 862,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://vre-rucio-ui.cern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/vre-rucio-ui.cern.ch.ico",
     "slug": "vre-data-lake-service",
-    "status": "down",
-    "uptime": "9.58%",
-    "uptimeDay": "9.58%",
-    "uptimeWeek": "9.58%",
-    "uptimeMonth": "9.58%",
-    "uptimeYear": "9.58%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
+    "time": 1153,
+    "timeDay": 1153,
+    "timeWeek": 1153,
+    "timeMonth": 1153,
+    "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-07-05": 0
+      "2023-07-05": 12
     }
   }
 ]
