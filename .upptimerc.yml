@@ -8,11 +8,13 @@ sites: # add dashub, reana etc later on
   - name: VRE Data Lake Service # add ports and url for auth and server
     url: https://vre-rucio-ui.cern.ch/
     __dangerous__disable_verify_peer: true # because of self singed cert
-  - name: FTS File Transfer Service
+  - name: VRE FTS File Transfer Service
     url: https://fts3-pilot.cern.ch:8449/fts3/ftsmon/#/jobs?vo=escape&source_se=&dest_se=&time_window=6
     __dangerous__insecure: true
   - name: VRE IAM Service
     url: https://iam-escape.cloud.cnaf.infn.it/
+  - name: VRE Monitoring Service
+    url: http://monit-grafana-open.cern.ch/goto/ZqVveDC4k?orgId=16
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
