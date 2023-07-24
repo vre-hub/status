@@ -4,18 +4,20 @@
     "url": "https://jhub-vre.cern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/jhub-vre.cern.ch.ico",
     "slug": "vre-notebook-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 857,
-    "timeWeek": 816,
-    "timeMonth": 784,
-    "timeYear": 784,
-    "dailyMinutesDown": {}
+    "time": 776,
+    "timeDay": 710,
+    "timeWeek": 785,
+    "timeMonth": 776,
+    "timeYear": 776,
+    "dailyMinutesDown": {
+      "2023-07-24": 0
+    }
   },
   {
     "name": "VRE Data Lake Service",
