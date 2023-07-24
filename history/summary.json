@@ -60,19 +60,19 @@
     "url": "https://iam-escape.cloud.cnaf.infn.it/",
     "icon": "https://icons.duckduckgo.com/ip3/iam-escape.cloud.cnaf.infn.it.ico",
     "slug": "vre-iam-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1856,
-    "timeDay": 1812,
-    "timeWeek": 1864,
-    "timeMonth": 1856,
-    "timeYear": 1856,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1873,
+    "timeDay": 1968,
+    "timeWeek": 1910,
+    "timeMonth": 1873,
+    "timeYear": 1873,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 7
     }
   },
   {
