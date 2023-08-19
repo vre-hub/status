@@ -60,18 +60,20 @@
     "url": "https://iam-escape.cloud.cnaf.infn.it/",
     "icon": "https://icons.duckduckgo.com/ip3/iam-escape.cloud.cnaf.infn.it.ico",
     "slug": "vre-iam-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1860,
-    "timeDay": 1344,
-    "timeWeek": 1697,
-    "timeMonth": 1866,
-    "timeYear": 1860,
-    "dailyMinutesDown": {}
+    "time": 1859,
+    "timeDay": 1572,
+    "timeWeek": 1710,
+    "timeMonth": 1864,
+    "timeYear": 1859,
+    "dailyMinutesDown": {
+      "2023-08-19": 0
+    }
   },
   {
     "name": "VRE Monitoring Service",
