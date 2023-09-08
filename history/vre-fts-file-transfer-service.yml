@@ -1,7 +1,7 @@
 url: https://fts3-pilot.cern.ch:8449/fts3/ftsmon/#/jobs?vo=escape&source_se=&dest_se=&time_window=6
 status: up
 code: 200
-responseTime: 1249
-lastUpdated: 2023-09-07T23:01:37.865Z
+responseTime: 1425
+lastUpdated: 2023-09-08T23:00:57.647Z
 startTime: 2023-07-13T08:50:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
