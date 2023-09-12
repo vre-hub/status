@@ -1,7 +1,7 @@
 url: https://iam-escape.cloud.cnaf.infn.it/
-status: down
-code: 503
-responseTime: 1062
-lastUpdated: 2023-09-12T16:06:47.131Z
+status: up
+code: 200
+responseTime: 1904
+lastUpdated: 2023-09-12T16:27:11.177Z
 startTime: 2023-07-05T09:30:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
