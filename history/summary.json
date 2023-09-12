@@ -6,9 +6,9 @@
     "slug": "vre-notebook-service",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 893,
     "timeDay": 855,
@@ -16,7 +16,6 @@
     "timeMonth": 880,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2023-09-12": 8,
       "2023-07-24": 35
     }
   },
@@ -63,18 +62,20 @@
     "url": "https://iam-escape.cloud.cnaf.infn.it/",
     "icon": "https://icons.duckduckgo.com/ip3/iam-escape.cloud.cnaf.infn.it.ico",
     "slug": "vre-iam-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1861,
-    "timeDay": 2142,
-    "timeWeek": 1705,
-    "timeMonth": 1827,
-    "timeYear": 1861,
-    "dailyMinutesDown": {}
+    "time": 1850,
+    "timeDay": 1602,
+    "timeWeek": 1625,
+    "timeMonth": 1804,
+    "timeYear": 1850,
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "VRE Monitoring Service",
