@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 890,
-    "timeDay": 642,
-    "timeWeek": 826,
-    "timeMonth": 858,
-    "timeYear": 890,
+    "time": 887,
+    "timeDay": 600,
+    "timeWeek": 786,
+    "timeMonth": 840,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2023-07-24": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 997,
-    "timeDay": 707,
-    "timeWeek": 931,
-    "timeMonth": 1085,
-    "timeYear": 997,
+    "time": 995,
+    "timeDay": 873,
+    "timeWeek": 917,
+    "timeMonth": 1077,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2023-08-26": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1337,
-    "timeDay": 1264,
-    "timeWeek": 1237,
-    "timeMonth": 1382,
-    "timeYear": 1337,
+    "time": 1335,
+    "timeDay": 1205,
+    "timeWeek": 1231,
+    "timeMonth": 1371,
+    "timeYear": 1335,
     "dailyMinutesDown": {}
   },
   {
@@ -64,15 +64,15 @@
     "slug": "vre-iam-service",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
-    "time": 1842,
-    "timeDay": 1683,
-    "timeWeek": 1676,
-    "timeMonth": 1793,
-    "timeYear": 1842,
+    "time": 1835,
+    "timeDay": 1315,
+    "timeWeek": 1649,
+    "timeMonth": 1780,
+    "timeYear": 1835,
     "dailyMinutesDown": {
       "2023-09-13": 43,
       "2023-09-12": 20
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1586,
-    "timeDay": 1301,
-    "timeWeek": 1654,
-    "timeMonth": 1586,
-    "timeYear": 1586,
+    "time": 1579,
+    "timeDay": 1162,
+    "timeWeek": 1617,
+    "timeMonth": 1559,
+    "timeYear": 1579,
     "dailyMinutesDown": {}
   }
 ]
